@@ -10,9 +10,7 @@ Pragma directives used for calculation of parallel time.
 
 Performance Metrics:
 
-1. Speedup
-   speedup = Ts/Tp
+1. Speedup = Ts/Tp
    
-2. Efficiency
-   efficiency = speedup/p
-        p = no. of processors
+2. Efficiency = speedup/p
+        (p = no. of processors)
